@@ -1,0 +1,65 @@
+html {
+  background: url(http://wallsdesk.com/wp-content/uploads/2016/11/Night-Sky-Stars-Computer-Wallpaper.jpg);
+  background-size: cover;
+}
+
+p {
+  font-size: 30px;
+  font-family: 'IM Fell English SC', serif;
+  margin-top: 130px;
+  text-shadow: 0 0 0.1em #fff, 0 0 0.2em #fff, 0 0 0.3em #fff, 0 0 0.4em #f7f,0 0 0.6em #f0f, 0 0 0.8em #f0f, 0 0 1.0em #f0f, 0 0 1.2em #f0f;
+  color: black;
+}
+
+#title {
+  font-weight: initial;
+  font-family: 'VT323', monospace;
+  float: initial;
+  margin-top: 240px;
+  margin-right: 0px;
+  margin-left: 580px;
+  font-size: 95px;
+  color: coral;
+  text-shadow: 0 0 0.1em #f00, 0 0 0.2em #0400ff, 0 0 0.3em #fff, 0 0 0.4em #f7f,0 0 0.6em #673ab7, 0 0 0.8em #673ab7, 0 0 1.0em #f0f, 0 0 1.2em #f0f;
+  display: block;
+}
+
+#login {
+  font-weight: initial;
+  font-family: 'IM Fell English SC', serif;
+  color: antiquewhite;
+  text-shadow: 0 0 0.1em #f00, 0 0 0.2em #0400ff, 0 0 0.3em #fff, 0 0 0.4em #f7f,0 0 0.6em #673ab7, 0 0 0.8em #673ab7, 0 0 1.0em #f0f, 0 0 1.2em #f0f;
+  margin-top: 0px;
+  margin-left: 680px;
+  font-size: 30px;
+}
+
+#leftList, #rightList {
+  margin-top: -475px;
+}
+
+#leftList {
+  float: left;
+  margin-left: 140px;
+}
+
+#rightList {
+  float: right;
+  margin-right: 140px;
+
+}
+
+.topRightList {
+  margin-left: 60px;
+}
+
+.middleRightList {
+  margin-left: 200px;
+}
+
+.lastRightList {
+  margin-left: 20px;
+}
+
+
+

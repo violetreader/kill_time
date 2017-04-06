@@ -1,0 +1,21 @@
+{
+  "name": "kill_time",
+  "version": "1.0.0",
+  "description": "App to pass time",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/violetreader/kill_time"
+  },
+  "author": "Kristin Morin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/violetreader/kill_time/issues"
+  },
+  "homepage": "https://github.com/violetreader/kill_time#readme"
+}
